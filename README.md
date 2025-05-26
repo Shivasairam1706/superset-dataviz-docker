@@ -61,7 +61,7 @@ This project sets up [Apache Superset](https://superset.apache.org/) for data vi
 
 ---
 ##Contributing & Support
-Feel free to open issues or pull requests. For questions or collaboration, contact the maintainer.
+- Feel free to open issues or pull requests. For questions or collaboration, contact the maintainer.
 ---
 If you'd like me to save this as a ready-to-commit file or add anything else, just say the word!
 
