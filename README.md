@@ -47,6 +47,8 @@ This project sets up [Apache Superset](https://superset.apache.org/) for data vi
 
 - `superset_config/` — Contains the custom `superset_config.py`, which configures feature flags, caching, and session handling using environment variables.
 
+---
+
 ## First Release Goals
 
 - Provide a reusable local Superset setup with sane defaults
@@ -58,5 +60,8 @@ This project sets up [Apache Superset](https://superset.apache.org/) for data vi
 - Enable Redis-based performance tuning and scalable session management
 
 ---
+##Contributing & Support
+Feel free to open issues or pull requests. For questions or collaboration, contact the maintainer.
+---
+If you'd like me to save this as a ready-to-commit file or add anything else, just say the word!
 
-Feel free to ask if you want me to create or help with any other files!
